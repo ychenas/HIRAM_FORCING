@@ -1,7 +1,9 @@
 #!user/bin/evn Rscript
 
 #Hello this just to have a fun in GitHUB
-#Add some text
+#
+#This shoud be cleaned ..>_<.. 
+
 #=========================================================================
 #YCHEN scripts 20140330 at  LSCE/IPSL
 #Script for reading cru dataset after zooming
